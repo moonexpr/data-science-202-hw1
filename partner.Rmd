@@ -1,0 +1,13 @@
+---
+title: "partner"
+author: "Michael Egle; michaelegle on GitHub"
+date: "1/27/2020"
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+latest commit was just the initial commit
+commit ID: ea589a1d4239148284a79da0296413cefa12309e
